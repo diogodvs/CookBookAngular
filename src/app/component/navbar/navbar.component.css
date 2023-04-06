@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(250,220,204);
+    justify-content: space-between;
+}
+
+img{
+    border-radius: 1rem;
+    margin-left: 1rem;
+    width: 12rem;
+  
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 1rem;
+}
+
+button{
+    border-radius: 10rem;
+    border-color: rgb(251,152,82);
+    margin: 0.5rem;
+    font-family: 'Merienda', cursive;
+}
+
+button:hover{
+    background-color: rgb(251,202,166, 0);
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(251,152,82);
+    align-items: center;
+    padding: 1rem;
+}
