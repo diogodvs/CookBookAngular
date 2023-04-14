@@ -5,6 +5,8 @@ footer{
     height: 4rem;
     align-items: center;
     background-color:  rgb(250,220,204);
+    position: relative;
+    bottom: 0;
     
 }
 

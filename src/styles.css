@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */ 
 :root { 
-    -color-bege-100: rgb(250,220,204);
-    -color-bege-300: rgb(251,202,166);
-    -color-bege-500: rgb(251,152,82);
+    --color-bege-100: rgb(250,220,204);
+    --color-bege-300: rgb(251,202,166);
+    --color-bege-500: rgb(251,152,82);
 
 }
 
